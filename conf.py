@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python Notları'
-copyright = '2018, İlker Manap'
-author = 'İlker Manap'
+project = 'Python Notlari'
+copyright = '2018, Ilker Manap'
+author = 'Ilker Manap'
 
 # The short X.Y version
 version = ''
@@ -128,8 +128,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PythonNotlar.tex', 'Python Notları Documentation',
-     'İlker Manap', 'manual'),
+    (master_doc, 'PythonNotlar.tex', 'Python Notlari Documentation',
+     'Ilker Manap', 'manual'),
 ]
 
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'pythonnotlar', 'Python Notları Documentation',
+    (master_doc, 'pythonnotlar', 'Python Notlari Documentation',
      [author], 1)
 ]
 
@@ -149,7 +149,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PythonNotlar', 'Python Notları Documentation',
+    (master_doc, 'PythonNotlar', 'Python Notlari Documentation',
      author, 'PythonNotlar', 'One line description of project.',
      'Miscellaneous'),
 ]
