@@ -12,7 +12,7 @@ Welcome to Python Notları's documentation!
 
    giris/giris
    bolum1/konular
-   
+   sqlalchemy/index
    
 
 Indices and tables
